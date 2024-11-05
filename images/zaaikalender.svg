@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 607.27 424.43">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f0efcb;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #430541;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #430541;
+      }
+
+      .cls-3 {
+        font-size: 115.15px;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: Dongle-Bold, Dongle;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 42.13px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: .01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M72.12,3.32h463.02c37.98,0,68.81,30.83,68.81,68.81v283.23c0,36.29-29.46,65.76-65.76,65.76H69.57c-36.57,0-66.26-29.69-66.26-66.26V72.12C3.32,34.15,34.15,3.32,72.12,3.32Z"/>
+  <path class="cls-5" d="M538.77,424.43H68.5c-37.77,0-68.5-30.73-68.5-68.5V68.5C0,30.73,30.73,0,68.5,0h470.26c37.77,0,68.5,30.73,68.5,68.5v287.42c0,37.77-30.73,68.5-68.5,68.5ZM68.5,6.63C34.39,6.63,6.63,34.39,6.63,68.5v287.42c0,34.12,27.76,61.87,61.87,61.87h470.26c34.12,0,61.87-27.76,61.87-61.87V68.5c0-34.12-27.76-61.87-61.87-61.87H68.5Z"/>
+  <path class="cls-5" d="M604.43,87.16H2.84v-15.02C2.84,33.1,32.39,1.45,68.84,1.45h466.2c38.32,0,69.38,33.27,69.38,74.31v11.39Z"/>
+  <g>
+    <line class="cls-4" x1="303.63" y1="424.43" x2="303.63" y2="85.25"/>
+    <line class="cls-4" x1="457.36" y1="420.82" x2="457.36" y2="81.65"/>
+    <line class="cls-4" x1="149.91" y1="420.82" x2="149.91" y2="81.65"/>
+  </g>
+  <line class="cls-4" x1="4.11" y1="193.74" x2="605.7" y2="193.74"/>
+  <line class="cls-4" x1=".32" y1="309.32" x2="601.91" y2="309.32"/>
+  <text class="cls-6" transform="translate(30.92 111.59)"><tspan x="0" y="0">Januari</tspan></text>
+  <text class="cls-6" transform="translate(175.94 110.94)"><tspan class="cls-10" x="0" y="0">F</tspan><tspan x="12.85" y="0">ebruari</tspan></text>
+  <text class="cls-6" transform="translate(342.18 110.94)"><tspan x="0" y="0">Maart</tspan></text>
+  <text class="cls-6" transform="translate(500.88 110.94)"><tspan x="0" y="0">April</tspan></text>
+  <text class="cls-6" transform="translate(52.74 220.74)"><tspan x="0" y="0">Mei</tspan></text>
+  <text class="cls-6" transform="translate(201.86 220.74)"><tspan x="0" y="0">Juni</tspan></text>
+  <text class="cls-6" transform="translate(357.63 220.74)"><tspan x="0" y="0">Juli</tspan></text>
+  <text class="cls-6" transform="translate(473.81 220.74)"><tspan x="0" y="0">Augustus</tspan></text>
+  <text class="cls-6" transform="translate(8.95 335.65)"><tspan x="0" y="0">Septem</tspan><tspan class="cls-7" x="93.95" y="0">b</tspan><tspan class="cls-8" x="109.96" y="0">er</tspan></text>
+  <text class="cls-6" transform="translate(178 335.87)"><tspan x="0" y="0">Okto</tspan><tspan class="cls-7" x="58.77" y="0">b</tspan><tspan x="74.78" y="0">er</tspan></text>
+  <text class="cls-6" transform="translate(318.16 337.14)"><tspan x="0" y="0">N</tspan><tspan class="cls-1" x="18.54" y="0">ov</tspan><tspan x="46.56" y="0">em</tspan><tspan class="cls-7" x="84.47" y="0">b</tspan><tspan x="100.48" y="0">er</tspan></text>
+  <text class="cls-6" transform="translate(467.46 337.14)"><tspan x="0" y="0">D</tspan><tspan class="cls-7" x="18.12" y="0">e</tspan><tspan x="33.07" y="0">cem</tspan><tspan class="cls-9" x="84.68" y="0">b</tspan><tspan x="100.7" y="0">er</tspan></text>
+  <text class="cls-3" transform="translate(91.54 68.06) scale(.97 1)"><tspan x="0" y="0">Zaaikalender</tspan></text>
+</svg>

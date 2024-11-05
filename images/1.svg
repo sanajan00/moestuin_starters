@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.45 352.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbe0fb;
+      }
+
+      .cls-2 {
+        fill: #430541;
+        font-family: Dongle-Bold, Dongle;
+        font-size: 290.26px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="161.73" cy="161.73" r="161.73"/>
+  <text class="cls-2" transform="translate(117.39 219.27)"><tspan x="0" y="0">1</tspan></text>
+</svg>
