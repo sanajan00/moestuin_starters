@@ -44,6 +44,7 @@ ol {
 
 ol li {
     display: flex;
+    align-items: center;
     padding: 0.5em;
     border-radius: 2em;
     background-color: #430541;
@@ -55,19 +56,27 @@ main {
     flex-grow: 1;
     margin-left: 2em;
     margin-right: 2em;
+    padding-bottom: 1.5em;
 }
 
 h1 {
     color: #0f492a;
     font-family: "Berlin Sans FB";
-    font-size: 35px;
+    font-size: 50px;
     font-weight: bold;
 }
 
 h2 {
     color: #0f492a;
     font-family: "Dongle Bold";
-    font-size: 60px;
+    font-size: 50px;
+    margin: 0;
+}
+
+h3 {
+    color: #0f492a;
+    font-family: "Dongle Bold";
+    font-size: 30px;
     margin: 0;
 }
 
@@ -93,6 +102,10 @@ div li {
     text-align: left;
 }
 
+div p {
+    font-size: x-large;
+}
+
 li p {
     padding: 0.5em;
 }
@@ -100,7 +113,6 @@ li p {
 footer { 
     background-color: #abcd84;
     padding: 0.5em;
-    margin: 0%, 100%, 0%, 100%;
 }
 
 footer p {
