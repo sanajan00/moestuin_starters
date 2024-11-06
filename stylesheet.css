@@ -8,6 +8,11 @@
     src: url(fonts/dongle_bold.ttf);
 }
 
+@font-face {
+    font-family: "Berlin Sans FB Demi Bold";
+    src: url(fonts/berlin_sans_fb.woff);
+}
+
 body {
     background-color: #f0efcb;
     margin: 0;
@@ -61,27 +66,26 @@ main {
 
 h1 {
     color: #0f492a;
-    font-family: "Berlin Sans FB";
+    font-family: "Berlin Sans FB Demi Bold", sans-serif;
     font-size: 50px;
-    font-weight: bold;
 }
 
 h2 {
     color: #0f492a;
-    font-family: "Dongle Bold";
+    font-family: "Dongle Bold", sans-serif;
     font-size: 50px;
     margin: 0;
 }
 
 h3 {
     color: #0f492a;
-    font-family: "Dongle Bold";
+    font-family: "Dongle Bold", sans-serif;
     font-size: 30px;
     margin: 0;
 }
 
 p {
-    font-family: "Sniglet Regular";
+    font-family: "Sniglet Regular", sans-serif;
     margin: 0;
 }
 
@@ -116,7 +120,7 @@ footer {
 }
 
 footer p {
-    font-family: 'Cooper Black';
+    font-family: "cooper-black-std", serif;
     font-size: smaller;
     text-align: center;
     margin: auto;
